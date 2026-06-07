@@ -1,0 +1,7 @@
+chroma_db/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.bin !text !filter !merge !diff
+*.pdf !text !filter !merge !diff
+*.docx !text !filter !merge !diff
+*.sqlite3 !text !filter !merge !diff
