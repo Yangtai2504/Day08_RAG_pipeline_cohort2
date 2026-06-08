@@ -1,3 +1,14 @@
+---
+title: Drug Law RAG Chatbot
+emoji: ⚖️
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.35.0"
+app_file: app.py
+pinned: false
+---
+
 # Ngày 8 — RAG Pipeline v2
 
 **Chương 2 | Ngày 8 trong 15**
