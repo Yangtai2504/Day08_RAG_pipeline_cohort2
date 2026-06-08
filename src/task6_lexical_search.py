@@ -1,22 +1,34 @@
 """
-Task 6 — Lexical Search Module (BM25).
+Task 6 — Lexical Search Module (BM25 + TF-IDF).
 
-Sử dụng BM25Okapi từ rank-bm25.
+Implement HAI phương pháp lexical search để so sánh:
 
-BM25 hoạt động thế nào:
-    - Term Frequency (TF): từ xuất hiện nhiều trong document → điểm cao
-    - Inverse Document Frequency (IDF): từ hiếm trong corpus → quan trọng hơn
-    - Document length normalization: document dài không bị ưu tiên quá mức
-    - Formula: score(q,d) = Σ IDF(qi) * (tf(qi,d)*(k1+1)) / (tf(qi,d)+k1*(1-b+b*|d|/avgdl))
-    - k1=1.5 (term frequency saturation), b=0.75 (length normalization)
+─────────────────────────────────────────────────────────────
+[1] BM25 (Best Match 25) — dùng rank-bm25
+─────────────────────────────────────────────────────────────
+  score(q,d) = Σ IDF(qi) * tf(qi,d)*(k1+1) / (tf(qi,d) + k1*(1-b+b*|d|/avgdl))
 
-Khác biệt với semantic search:
-    - BM25 tìm theo từ khóa chính xác (keyword matching)
-    - Semantic search tìm theo nghĩa (có thể tìm được dù dùng từ đồng nghĩa)
-    - Hybrid = kết hợp cả hai → tốt hơn từng loại riêng lẻ
+  Ưu điểm so với TF-IDF:
+  - Term saturation: từ xuất hiện 10 lần không tốt gấp 10 lần từ xuất hiện 1 lần
+    (k1 kiểm soát mức bão hoà, mặc định k1=1.5)
+  - Length normalization: document dài không được lợi thế bất công
+    (b=0.75 kiểm soát mức độ penalty độ dài)
+  → BM25 phù hợp cho corpus có document dài ngắn không đều (như pháp luật + báo)
+
+─────────────────────────────────────────────────────────────
+[2] TF-IDF — dùng sklearn TfidfVectorizer + cosine similarity
+─────────────────────────────────────────────────────────────
+  TF(t,d) = số lần t xuất hiện trong d / tổng số từ trong d
+  IDF(t)  = log(N / df(t))  [N = số doc, df = số doc chứa term t]
+  score   = cosine_similarity(query_vec, doc_vec)
+
+  Hạn chế so với BM25:
+  - Không có term saturation: TF tuyến tính → từ lặp nhiều lần được lợi quá mức
+  - Không có length normalization thông minh: chỉ dùng L2 norm trong cosine
+  → TF-IDF phù hợp cho short documents, BM25 tốt hơn cho long documents
 
 Cài đặt:
-    pip install rank-bm25
+    pip install rank-bm25 scikit-learn
 """
 
 import numpy as np
@@ -143,6 +155,78 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     return results
 
 
+# =============================================================================
+# TF-IDF SEARCH (phương pháp thay thế BM25 — sklearn)
+# =============================================================================
+
+_tfidf_vectorizer = None
+_tfidf_matrix = None
+
+
+def _get_tfidf():
+    """Lazy init TF-IDF vectorizer."""
+    global _tfidf_vectorizer, _tfidf_matrix, _corpus
+
+    if _tfidf_vectorizer is not None:
+        return _tfidf_vectorizer, _tfidf_matrix, _corpus
+
+    # Dùng chung corpus với BM25
+    _, corpus = _get_bm25()
+    if not corpus:
+        return None, None, []
+
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.preprocessing import normalize
+
+    texts = [doc["content"] for doc in corpus]
+    _tfidf_vectorizer = TfidfVectorizer(
+        lowercase=True,
+        # Không dùng stop words vì tiếng Việt không có built-in list
+        max_features=50000,
+        ngram_range=(1, 2),  # Unigram + bigram → bắt được cụm từ "ma tuý", "cai nghiện"
+    )
+    _tfidf_matrix = normalize(_tfidf_vectorizer.fit_transform(texts))
+    return _tfidf_vectorizer, _tfidf_matrix, corpus
+
+
+def tfidf_search(query: str, top_k: int = 10) -> list[dict]:
+    """
+    Tìm kiếm từ khóa bằng TF-IDF + cosine similarity.
+
+    So sánh với BM25:
+    - TF-IDF: score tuyến tính theo tần suất từ, không có term saturation
+    - BM25: có term saturation (k1) và length normalization (b) → tốt hơn cho
+      corpus có độ dài document không đồng đều như dataset pháp luật này
+
+    Args:
+        query: Câu truy vấn
+        top_k: Số kết quả tối đa
+
+    Returns:
+        List of {'content': str, 'score': float, 'metadata': dict}
+    """
+    vectorizer, matrix, corpus = _get_tfidf()
+    if vectorizer is None:
+        return []
+
+    from sklearn.preprocessing import normalize
+    query_vec = normalize(vectorizer.transform([query.lower()]))
+    scores = (matrix @ query_vec.T).toarray().flatten()
+
+    top_indices = np.argsort(scores)[::-1][:top_k]
+    results = []
+    for idx in top_indices:
+        score = float(scores[idx])
+        if score <= 0:
+            break
+        results.append({
+            "content": corpus[idx]["content"],
+            "score": round(score, 4),
+            "metadata": corpus[idx]["metadata"],
+        })
+    return results
+
+
 if __name__ == "__main__":
     queries = [
         "Điều 248 tàng trữ trái phép chất ma tuý",
@@ -153,9 +237,15 @@ if __name__ == "__main__":
     for q in queries:
         print(f"\nQuery: {q}")
         print("-" * 60)
-        results = lexical_search(q, top_k=3)
-        if not results:
-            print("  (Không có kết quả — hãy chạy Task 3 trước)")
-        for r in results:
-            print(f"  [{r['score']:.3f}] [{r['metadata'].get('type', '?')}] "
-                  f"{r['content'][:100].replace(chr(10), ' ')}...")
+
+        bm25_results = lexical_search(q, top_k=3)
+        print("  [BM25]")
+        if not bm25_results:
+            print("    (Không có kết quả — hãy chạy Task 3 trước)")
+        for r in bm25_results:
+            print(f"    [{r['score']:.3f}] {r['content'][:80].replace(chr(10), ' ')}...")
+
+        tfidf_results = tfidf_search(q, top_k=3)
+        print("  [TF-IDF]")
+        for r in tfidf_results:
+            print(f"    [{r['score']:.3f}] {r['content'][:80].replace(chr(10), ' ')}...")
