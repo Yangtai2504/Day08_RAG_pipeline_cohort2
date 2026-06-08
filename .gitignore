@@ -9,8 +9,8 @@ venv/
 # Env (keys)
 .env
 
-# Data landing (raw files — too large for git)
-data/landing/
+# Temp PDF conversion cache
+data/_tmp_pdf/
 
 # Temp / cache
 .pytest_cache/
