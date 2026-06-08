@@ -1,0 +1,378 @@
+# Những nghệ sĩ bị ma túy tàn phá sự nghiệp khi đang ở đỉnh cao
+
+**Nguồn:** https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html
+**Ngày crawl:** 2026-06-08T12:04:18.427262
+**Loại:** Bài báo
+
+---
+
+**Thứ Hai,** 08/06/2026
+  * [Đọc báo in](https://congly.vn/an-pham)
+
+
+[ ![logo](https://cly.1cdn.vn/congly/assets/images/logo.png) ![logo](https://cly.1cdn.vn/congly/assets/images/logo-small.png) ](https://congly.vn/)
+  * **Hà Nội** _38°C_ / 27 - 38°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+
+
+Đang hiển thị
+  * Hà Nội38°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+
+
+Tỉnh thành khác
+  * An Giang29°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Bắc Ninh37°C![](https://asset.1cdn.vn/all/weather/64x64/day/200.png)
+  * Cà Mau28°C![](https://asset.1cdn.vn/all/weather/64x64/day/119.png)
+  * Cần Thơ27°C![](https://asset.1cdn.vn/all/weather/64x64/day/119.png)
+  * Cao Bẳng34°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Đà Nẵng32°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Đắk Lắk29°C![](https://asset.1cdn.vn/all/weather/64x64/day/353.png)
+  * Điện Biên30°C![](https://asset.1cdn.vn/all/weather/64x64/day/119.png)
+  * Đồng Nai29°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Đồng Tháp27°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Gia Lai28°C![](https://asset.1cdn.vn/all/weather/64x64/day/353.png)
+  * Hà Nội38°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Hà Tĩnh37°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Hải Phòng33°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Hồ Chí Minh30°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Huế35°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Hưng Yên36°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Khánh Hòa30°C![](https://asset.1cdn.vn/all/weather/64x64/day/176.png)
+  * Lai Châu26°C![](https://asset.1cdn.vn/all/weather/64x64/day/386.png)
+  * Lâm Đồng23°C![](https://asset.1cdn.vn/all/weather/64x64/day/176.png)
+  * Lạng Sơn35°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Lào Cai35°C![](https://asset.1cdn.vn/all/weather/64x64/day/176.png)
+  * Nghệ An37°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Ninh Bình36°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Phú Thọ36°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Quảng Ngãi35°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Quảng Ninh32°C![](https://asset.1cdn.vn/all/weather/64x64/day/176.png)
+  * Quảng Trị36°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Sơn La30°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Tây Ninh30°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Thái Nguyên36°C![](https://asset.1cdn.vn/all/weather/64x64/day/200.png)
+  * Thanh Hóa34°C![](https://asset.1cdn.vn/all/weather/64x64/day/113.png)
+  * Tuyên Quang33°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+  * Vĩnh Long28°C![](https://asset.1cdn.vn/all/weather/64x64/day/116.png)
+
+
+Không tìm thấy kết quả
+  * [](https://congly.vn/)
+  * [Chính trị](https://congly.vn/chinh-tri)
+  * [Tòa án](https://congly.vn/toa-an)
+  * [Pháp đình](https://congly.vn/phap-dinh)
+  * [Pháp luật](https://congly.vn/phap-luat)
+  * [Xã hội](https://congly.vn/xa-hoi)
+  * [Văn hóa- Thể thao](https://congly.vn/van-hoa-the-thao)
+  * [Kinh tế](https://congly.vn/kinh-te)
+  * [Thế giới](https://congly.vn/the-gioi)
+  * [Quốc phòng - An ninh](https://congly.vn/quoc-phong-an-ninh)
+  * [Podcast](https://congly.vn/podcast)
+  * [Bạn đọc](https://congly.vn/ban-doc)
+  * [Video](https://congly.vn/video)
+  * [Giáo dục](https://congly.vn/giao-duc)
+  * [Bảo vệ nền tảng tư tưởng của Đảng](https://congly.vn/bao-ve-nen-tang-tu-tuong-cua-dang)
+  * [Phóng sự - Ghi chép](https://congly.vn/phong-su-ghi-chep)
+  * [Nhắn tin](https://congly.vn/nhan-tin)
+  * [Cải chính ](https://congly.vn/cai-chinh)
+  * [Thông tin doanh nghiệp](https://congly.vn/thong-tin-doanh-nghiep)
+  * [Tin địa phương ](https://congly.vn/tin-dia-phuong)
+  * [Chống khai thác IUU](https://congly.vn/chong-khai-thac-iuu)
+  *     * [Giáo dục](https://congly.vn/giao-duc)
+    * [Bảo vệ nền tảng tư tưởng của Đảng](https://congly.vn/bao-ve-nen-tang-tu-tuong-cua-dang)
+    * [Phóng sự - Ghi chép](https://congly.vn/phong-su-ghi-chep)
+    * [Nhắn tin](https://congly.vn/nhan-tin)
+    * [Cải chính ](https://congly.vn/cai-chinh)
+    * [Thông tin doanh nghiệp](https://congly.vn/thong-tin-doanh-nghiep)
+    * [Tin địa phương ](https://congly.vn/tin-dia-phuong)
+    * [Chống khai thác IUU](https://congly.vn/chong-khai-thac-iuu)
+
+
+  * [Đọc báo in](https://congly.vn/an-pham)
+
+
+  * [Chính trị](https://congly.vn/chinh-tri)
+  * [Tòa án](https://congly.vn/toa-an)
+    * [Tiêu điểm](https://congly.vn/toa-an/tieu-diem)
+    * [Cải cách tư pháp](https://congly.vn/toa-an/cai-cach-tu-phap)
+    * [Phong trào thi đua](https://congly.vn/toa-an/phong-trao-thi-dua)
+    * [Tòa án địa phương](https://congly.vn/toa-an/toa-an-dia-phuong)
+    * [Nghiệp vụ](https://congly.vn/toa-an/nghiep-vu)
+  * [Pháp đình](https://congly.vn/phap-dinh)
+    * [Ký sự pháp đình](https://congly.vn/phap-dinh/ky-su-phap-dinh)
+    * [Tòa tuyên án](https://congly.vn/phap-dinh/toa-tuyen-an)
+  * [Pháp luật](https://congly.vn/phap-luat)
+    * [Hồ sơ vụ án](https://congly.vn/phap-luat/ho-so-vu-an)
+    * [An ninh trật tự](https://congly.vn/phap-luat/an-ninh-trat-tu)
+    * [Tư vấn pháp luật](https://congly.vn/phap-luat/tu-van-phap-luat)
+  * [Xã hội](https://congly.vn/xa-hoi)
+    * [Đời sống](https://congly.vn/xa-hoi/doi-song)
+    * [Môi trường](https://congly.vn/xa-hoi/moi-truong)
+    * [Sức khỏe](https://congly.vn/xa-hoi/suc-khoe)
+    * [Giao thông](https://congly.vn/xa-hoi/giao-thong)
+  * [Văn hóa- Thể thao](https://congly.vn/van-hoa-the-thao)
+    * [Văn hóa - Du lịch](https://congly.vn/van-hoa-the-thao/van-hoa-du-lich)
+    * [Âm nhạc - Phim](https://congly.vn/van-hoa-the-thao/am-nhac-phim)
+    * [Thể thao](https://congly.vn/van-hoa-the-thao/the-thao)
+  * [Kinh tế](https://congly.vn/kinh-te)
+    * [Doanh nghiệp - Doanh nhân](https://congly.vn/kinh-te/doanh-nghiep-doanh-nhan)
+    * [Bất động sản](https://congly.vn/kinh-te/bat-dong-san)
+    * [Tài chính - Ngân hàng](https://congly.vn/kinh-te/tai-chinh-ngan-hang)
+    * [Bảo vệ người tiêu dùng](https://congly.vn/kinh-te/bao-ve-nguoi-tieu-dung)
+  * [Thế giới](https://congly.vn/the-gioi)
+    * [Chuyển động](https://congly.vn/the-gioi/chuyen-dong)
+    * [Vụ án nổi tiếng](https://congly.vn/the-gioi/vu-an-noi-tieng)
+    * [Chuyện lạ bốn phương](https://congly.vn/the-gioi/chuyen-la-bon-phuong)
+  * [Quốc phòng - An ninh](https://congly.vn/quoc-phong-an-ninh)
+  * [Podcast](https://congly.vn/podcast)
+  * [Bạn đọc](https://congly.vn/ban-doc)
+    * [Nhịp cầu Công lý](https://congly.vn/ban-doc/nhip-cau-cong-ly)
+    * [Vấn đề quan tâm](https://congly.vn/ban-doc/van-de-quan-tam)
+    * [Nhân ái](https://congly.vn/ban-doc/nhan-ai)
+    * [Hồi âm](https://congly.vn/ban-doc/hoi-am)
+  * [Video](https://congly.vn/video)
+  * [Giáo dục](https://congly.vn/giao-duc)
+  * [Bảo vệ nền tảng tư tưởng của Đảng](https://congly.vn/bao-ve-nen-tang-tu-tuong-cua-dang)
+  * [Phóng sự - Ghi chép](https://congly.vn/phong-su-ghi-chep)
+  * [Nhắn tin](https://congly.vn/nhan-tin)
+  * [Cải chính ](https://congly.vn/cai-chinh)
+  * [Thông tin doanh nghiệp](https://congly.vn/thong-tin-doanh-nghiep)
+  * [Chống khai thác IUU](https://congly.vn/chong-khai-thac-iuu)
+
+
+  1. [Trang chủ](https://congly.vn/)
+  2. [Văn hóa- Thể thao](https://congly.vn/van-hoa-the-thao)
+
+
+# Những nghệ sĩ bị ma túy tàn phá sự nghiệp khi đang ở đỉnh cao
+Xuân Lan| 13/06/2022 16:44
+[ Theo dõi Báo điện tử Công lý trên ![](https://cly.1cdn.vn/assets/congly/images/ggnewslogo.png) ](https://news.google.com/publications/CAAqBwgKMK_Qzwsw3uvmAw?hl=vi&gl=VN&ceid=VN%3Avi "Theo dõi Báo điện tử Công lý trên Google News")
+Vụ việc mới đây của Hữu Tín đã khiến nhiều người hâm mộ cảm thấy thất vọng. Một lần nữa, câu chuyện thân bại danh liệt về ma túy của giới nghệ sĩ lại bị bàn tán. Trước kia, cũng rất nhiều nghệ sĩ là những gương mặt nổi tiếng trong làng giải trí cũng lún sâu vào ma túy. Cuối cùng, họ mất cả sự nghiệp vì sử dụng chất kích thích trái phép này.
+Hữu Tín ngày 12/6 bị CA quận 8 phát hiện sử dụng ma túy trong căn hộ ở TP.HCM. Trước đó, lực lượng chức năng quận 8 kiểm tra căn hộ chung cư ở phường 5, quận 8, phát hiện một số người đang sử dụng ma túy. 
+![photo-1-16550839463912011901159.jpg](https://cly.1cdn.vn/2022/06/13/photo-1-16550839463912011901159.jpg)Hữu Tín ngày 12/6 bị CA quận 8 phát hiện sử dụng ma túy trong căn hộ ở TP.HCM.
+Theo cảnh sát, trong số này có diễn viên hài Hữu Tín. Những người này sau đó bị đưa về trụ sở lấy lời khai, làm rõ hành vi. Trong làng giải trí, đây không phải là trường hợp nghệ sĩ đầu tiên liên quan đến ma túy.
+Diễn viên Hữu Tín (sinh năm 1987) không phải là gương mặt mới nổi của showbiz Việt. So về số năm hoạt động, nam diễn viên có thể thua những tên tuổi khác nhưng anh tích cực, hoạt động ở nhiều vai trò. Có thời điểm, Hữu Tín xuất hiện dày trên truyền hình đến các hoạt động tại sân khấu kịch hàng tuần.
+Sự việc đáng buồn trên khiến hình ảnh của Hữu Tín trong mắt khán giả bị ảnh hưởng nghiêm trọng. Không riêng gì trang cá nhân của Hữu Tín, mà tài khoản Facebook của bạn gái anh - diễn viên Trúc Anh cũng bị dân mạng “tấn công”. 
+Nhiều người spam hình ảnh Hữu Tín bị bắt giữ dưới bài đăng của cả hai. Thậm chí, không ít cư dân mạng còn khuyên Trúc Anh nên chia tay Hữu Tín.
+![photo-2-16550990455031783971737.jpg](https://cly.1cdn.vn/2022/06/13/photo-2-16550990455031783971737.jpg)Bạn gái Hữu Tín bị dân mạng "tấn công" sau sự cố của nam diễn viên.
+Trước kia, dư luận đã có phen rúng động trước thông tin ca sĩ Châu Việt Cường sử dụng ma túy đá cùng bạn bè, dẫn tới cái chết của một cô gái.
+Rạng sáng 5/3 năm 2018, sau khi đi biểu diễn về, ca sĩ Châu Việt Cường (tên thật là Nguyễn Việt Cường, SN 1984, quê ở Hà Trung, Thanh Hóa) rủ bạn đến một căn hộ tại phường Cống Vị, quận Ba Đình, TP.Hà Nội sử dụng ma túy tổng hợp. 
+Đến 7h sáng, Châu Việt Cường và chị T.M.H (SN 1998, ở Chương Mỹ, Hà Nội) bị sốc. Cường tưởng chị H. là “bà cô tổ” nên khóc lóc, chắp tay lạy chị H. Sau đó, vì sợ hãi nghĩ "bà cô tổ" là ma nên Cường lấy tỏi nhét vào miệng chị H. để trừ tà. 
+Kết quả khám nghiệp pháp y tử thi cho thấy trong miệng và họng chị H. có đến hơn 30 nhánh tỏi. Số tỏi này gây tắc phế quản, tắc đường hô hấp khiến nạn nhân tử vong.
+Châu Việt Cường đã bị khởi tố vì tội vô ý làm chết người, tuy nhiên luật sư đại diện cho gia đình nạn nhân lại gửi đơn đề nghị cơ quan chức năng xem xét khởi tố bị can về hành vi Giết người. Không chỉ mất tất cả sự nghiệp, thậm chí còn phải lĩnh án 13 năm vì tội giết người.
+![20180726165151-5852.jpg](https://cly.1cdn.vn/2022/06/13/20180726165151-5852.jpg)Châu Việt Cường là trường hợp ồn ào nhất nhì ở Vbiz vì ma túy mà mất tất cả sự nghiệp, thậm chí còn phải lĩnh án 13 năm vì tội giết người.
+Cũng vào năm 2007, việc diễn viên hài Dương Đức Hiệp (Hiệp "gà") bị bắt vì tàng trữ ma túy thật sự bất ngờ với khán giả nhưng lại không bất ngờ với đồng nghiệp. Không bất ngờ bởi Hiệp dính đến ma túy đã gần 10 năm nay. 
+Không bất ngờ cũng bởi, một số "nghệ sĩ" của Việt Nam nhất là ca sĩ xem ma túy và thuốc lắc là những thứ để... "thăng hoa nghệ thuật", để nhảy nhót, lắc lư theo những tiết tấu mạnh của nhạc thị trường.
+Sau khi bị Nhà hát tuổi trẻ sa thải, Hiệp Gà sa vào con đường nghiện ngập, tù tội. Năm 2007, Hiệp Gà bị công an phường Phương Liên, Hà Nội bắt vì tàng trữ heroin. Ngày hầu tòa, anh đã bật khóc khi nhìn thấy vợ và con gái nhỏ 3 tuổi.
+Phiên xử mở tại UBND phường Phương Liên, nơi Hiệp Gà tạm trú chật kín người hâm mộ, bạn diễn và người dân xung quanh. Sau hai năm nhận án, anh ra tù và đứng lên làm lại từ đầu.
+Tuy nhiên, có thời điểm nhiều thông tin lan truyền rằng Hiệp Gà tái nghiện. Trước tin đồn bất lợi, diễn viên hài gốc Hưng Yên đã lên tiếng phủ nhận.
+Và hiện tại, Hiệp Gà chỉ đi diễn tỉnh và không còn xuất hiện trên sóng truyền hình như xưa. Việc dính vào ma túy đã khiến bao mồ hôi để gây dựng trước đó coi như mất sạch.
+![20180726165600-ef83.jpg](https://cly.1cdn.vn/2022/06/13/20180726165600-ef83.jpg)Từng là một trong những diễn viên hài nổi tiếng của miền Bắc nhưng đang ở giai đoạn đỉnh cao, Hiệp "gà" lại bị bắt và bị kết án vì tội tàng trữ trái phép chất ma túy.
+Chưa đến mức như Hiệp "gà" nhưng Duy Mạnh cũng từng có thời điểm sa đọa bởi ma túy, cờ bạc. Đấy là lúc anh nổi tiếng nhất với loạt hit: "Hãy về đây bên anh", "Kiếp đỏ đen", "Ta đâu có say", "Dĩ vãng cuộc tình"..., sau đó cát-xê cũng đột ngột tăng đến 1.000 lần so với những ngày đầu sáng tác. 
+Cuộc sống trở nên dư dả khiến Duy Mạnh chìm vào những cuộc chơi "thâu đêm suốt sáng": "Có nhiều tiền tự nhiên tôi thấy mình thay đổi. Tôi nghĩ mình phải hưởng thụ thế là tôi bắt đầu những cuộc chơi tính bằng tiền "đô" như rượu mạnh, ma tuý… 
+Thậm chí ra nước ngoài, sau khi bay show, tôi cũng đắm mình vào những cuộc chơi thâu đêm, "nướng" vài chục nghìn đô một đêm… Có thời tôi ăn chơi như vậy đấy", nam ca sĩ không ngại ngần kể lại quá khứ chơi bời của mình.
+![20180726165828-0113.jpg](https://cly.1cdn.vn/2022/06/13/20180726165828-0113.jpg)Duy Mạnh cũng từng có thời điểm sa đọa bởi ma túy, cờ bạc.
+Nghệ sĩ Thương Tín người nghiện ma túy vì biến cố vợ đầu qua đời. Từ một nghệ sĩ tài hoa ngày nào giờ đây ông đang trải qua cuộc sống khó khăn. 
+Lý do khiến Thương Tín sa đọa vướng vào chất cấm là vì biến cố người vợ đầu qua đời. Vì không chịu được cú sốc lớn đó, nghệ sĩ Thương Tín lao vào ma túy, có lần lên cơn nghiện, anh đã mượn xe của một nhân viên trong đoàn phim đem cầm lấy tiền chơi ma túy.
+Hơn chục năm chìm trong những mê man của cơn nghiện ông mới rút ra khỏi bùn lầy khi cai nghiện thành công ở quê nhà. Tuy nhiên, không lâu sau đó ông lại bị bắt vì tội tổ chức đánh bạc, sau thời gian tù tội, Thương Tín bắt đầu trở lại cuộc sống có thêm một con gái nhỏ 2 tuổi với người vợ thứ 4.
+Đó là những câu chuyện quá khứ của nghệ sĩ Thương Tín, những năm sau đó, ông chăm chỉ nhận show và phim ảnh.
+Cuộc sống hiện tại trong thời gian gần đây của nghệ sĩ Thương Tín không mấy khả quan. Ông rơi vào biến cố sức khỏe khi bị đột quỵ nhập viện khẩn cấp phải dựa vào tiền quyên góp của các mạnh thường quân. 
+Dù vượt qua được bệnh tật nhưng đời sống cá nhân của Thương Tín vẫn rất khó khăn. Bây giờ, thay vì sinh sống trên thành phố, ông về quê cùng vợ con để tiết kiệm chi phí. Dù vậy, nam nghệ sĩ gạo cội vẫn khao khát kiếm được tiền để lo cho mình và con gái nhỏ.
+Bởi thế, ma túy trước sau vẫn là thứ độc hại, nguy hiểm với các nghệ sĩ trong showbiz. Ai khôn ngoan tránh được nó thì sẽ có sự nghiệp lâu bền.
+Còn ai không đủ bản lĩnh để vượt qua những sự cám dỗ thì điều họ khó lường tới là sự thất bại về sự nghiệp luôn rình rập. Kèm theo đó là những bản án dù là người nổi tiếng cũng không thể nào tránh khỏi.
+Với những nghệ sĩ dùng thuốc lắc hay ma túy, mỗi người có một lý do riêng. Nếu như các ca sĩ của làng giải trí, để chạy show được khỏe hơn và để làm chủ những vũ điệu bốc lửa đã tìm đến thuốc lắc, thì các sinh viên thanh nhạc lại dùng ma túy để giữ hơi. 
+![20180726165408-3a8d.jpg](https://cly.1cdn.vn/2022/06/13/20180726165408-3a8d.jpg)Người vợ thân yêu mất là cú sốc lớn khiến diễn viên Thương Tín lao vào ma túy
+Còn với một số diễn viên lại coi những cuộc lắc là để giữ dáng vẻ cân đối, hoàn hảo. Cũng có những trường hợp tìm đến thứ thuốc cấm này chỉ để giải tỏa những tâm lý khi bất ổn.
+Dù có lý do gì chăng nữa thì đó là những quan điểm sai lầm và biện minh một cách vô lối. 
+Có thể, theo guồng quay nghiệt ngã của dòng nhạc giải trí, nhiều ca sĩ đã tranh thủ tuổi xuân để kiếm tiền mà bất chấp tất cả, nhưng họ đã bị những viên ma túy tổng hợp cuốn họ từ vòng quay này đến vòng quay khác, cuốn đến mức làm hỏng thẩm mỹ của một thế hệ khán thính giả thích những thần tượng ảo và những quan điểm nghệ thuật bệnh hoạn.
+Có một điều nữa mà một số nghệ sĩ đã cố tình quên là dùng doping, dùng ma túy là vi phạm pháp luật nhưng họ vẫn dùng. Đây là điều đáng tiếc. Lẽ ra, họ phải gương mẫu về lối sống để xứng đáng với sự hâm mộ của công chúng.
+  * [Chia sẻ Zalo](javascript:; "Chia sẻ Zalo")
+  * [Chia sẻ Zalo](intent:#Intent;action=android.intent.action.SEND;type=text/plain;S.android.intent.extra.SUBJECT=;S.android.intent.extra.TEXT=https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html?utm_source=zalo&utm_medium=zalomsg&B.hidePostFeed=true;B.backToSource=true;end "Chia sẻ Zalo")
+
+
+  * ####  [Văn hóa - giải trí](https://congly.vn/van-hoa-giai-tri-ptag.html "Văn hóa - giải trí")
+
+
+Bài liên quan
+  * [](https://congly.vn/cuoc-thanh-loc-o-showbiz-trung-quoc-ngay-cang-quyet-liet-206034.html)
+###  [Cuộc thanh lọc ở showbiz Trung Quốc ngày càng quyết liệt](https://congly.vn/cuoc-thanh-loc-o-showbiz-trung-quoc-ngay-cang-quyet-liet-206034.html)
+[Các ngôi sao mất nhiều năm để gây dựng danh tiếng, nhưng họ có thể đánh mất sự nghiệp chỉ sau vài tiếng nếu vướng bê bối trái đạo đức, pháp luật. Sau hàng loạt các chính sách từ cơ quan chức năng cho thấy cuộc thanh lọc ở showbiz Trung Quốc đang diễn ra rất quyết liệt, khiến các nghệ sĩ hàng đầu cũng phải run sợ, từ bỏ lợi ích cá nhân.](https://congly.vn/cuoc-thanh-loc-o-showbiz-trung-quoc-ngay-cang-quyet-liet-206034.html)
+
+
+Đọc tiếp
+[](https://congly.vn/su-kien-hop-fan-voi-hon-4000-nguoi-nhu-sao-showbiz-204963.html)
+####  [Sự kiện “họp fan” với hơn 4000 người như sao showbiz](https://congly.vn/su-kien-hop-fan-voi-hon-4000-nguoi-nhu-sao-showbiz-204963.html)
+[](https://congly.vn/showbiz-viet-tiep-tuc-kho-khan-khi-hang-loat-ngoi-sao-thanh-f0-204074.html)
+####  [Showbiz Việt tiếp tục khó khăn khi hàng loạt ngôi sao thành F0](https://congly.vn/showbiz-viet-tiep-tuc-kho-khan-khi-hang-loat-ngoi-sao-thanh-f0-204074.html)
+Gửi bình luận
+Bình luận của bạn đã được gửi và sẽ hiển thị sau khi được duyệt bởi ban biên tập.   
+Ban biên tập giữ quyền biên tập nội dung bình luận để phù hợp với qui định nội dung của Báo. 
+(0) Bình luận
+Xếp theo:
+  * [Thời gian](javascript:;)
+  * [Số người thích](javascript:;)
+
+
+[![](https://adi.admicro.vn/adt/adn/2025/09/banner-BkyGyiOhUs.gif)](https://lg1.logging.admicro.vn/adn?dmn=https%3A%2F%2Fcongly.vn%2Fnhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html&rid=011a05kot7t0003&sspb=5880&sspr=5880&lsn=1780895042619&ce=1&lc=4&cr=&ui=&uuid=&profileID=&bi=0&cmpg=97183&items=439645&zid=523702&pr=44015953414&cid=-1&tp=11&tpn=4&alg=1111&dg=f2319469f574482bef011288f60a5106&xtr=eyJhc2lkIjoxNDYxNCwicHJvZmlsZWlkIjoiIiwicHJmbmciOnsidGltZSI6MTc4MDg5NTA0NywiX3VwbCI6bnVsbH0sImJsdiI6IiwsLCw4LDYwMDAuMCw2MDAwLjAsNTg4MC4wLDU4ODAuMCw1ODgwLCwsLCwwLCwsMS4wLDEsMC4wMDA5OCwxLDEsMDI4ZGE5MjI7LCJ9&sspz=2028542&adc_cpa=1&cov=1&re=https%3A%2F%2Fthietbivesinh.com.vn%2Fsen-cay%2Fsen-cay-nong-lanh%2Fbo-sen-cay-nong-lanh-crystal-series-zt8068ec.html)
+ADQuảng cáo
+[![](https://adi.admicro.vn/adt/adn/2025/09/banner-hcZnyMsC6L.jpeg)](https://lg1.logging.admicro.vn/adn?dmn=https%3A%2F%2Fcongly.vn%2Fnhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html&rid=011a05kot7m6000&sspb=24000&sspr=17326&lsn=1780895042619&ce=1&lc=4&cr=&ui=&uuid=&profileID=&bi=0&cmpg=100994&items=460763&zid=523695&pr=46126794131&cid=-1&tp=11&tpn=4&alg=1111&dg=f2319469f574482bef011288f60a5106&xtr=eyJhc2lkIjoxNDYxMCwicHJvZmlsZWlkIjoiIiwicHJmbmciOnsidGltZSI6MTc4MDg5NTA0NywiX3VwbCI6bnVsbH0sImJsdiI6IiwsLCw4LDE1MDAwLjAsMTUwMDAuMCwyNDAwMC4wLDI0MDAwLjAsMTczMjYsLCwsLDAsLCwxLjAsMSwwLjAwMTYsMSwxLDhhNTRjMGJjOywifQ%3D%3D&sspz=2028537&adc_cpa=1&cov=1&re=https%3A%2F%2Fnagakawa.com.vn%2Fdieu-hoa-am-tran-cassette-inverter-8-huong-thoi-nit-c24r2u35-24000btu-h-1-chieu%3Futm_source%3DAdx%26utm_medium%3Dcpc%26utm_content%3DDieuhoaamtran%26utm_campaign%3DQuy1_2026)
+Đọc tiếp
+[](https://congly.vn/su-kien-hop-fan-voi-hon-4000-nguoi-nhu-sao-showbiz-204963.html)
+#### [Sự kiện “họp fan” với hơn 4000 người như sao showbiz](https://congly.vn/su-kien-hop-fan-voi-hon-4000-nguoi-nhu-sao-showbiz-204963.html)
+[](https://congly.vn/showbiz-viet-tiep-tuc-kho-khan-khi-hang-loat-ngoi-sao-thanh-f0-204074.html)
+#### [Showbiz Việt tiếp tục khó khăn khi hàng loạt ngôi sao thành F0](https://congly.vn/showbiz-viet-tiep-tuc-kho-khan-khi-hang-loat-ngoi-sao-thanh-f0-204074.html)
+[Đọc thêm Văn hóa- Thể thao](https://congly.vn/van-hoa-the-thao)
+  * [](https://congly.vn/be-mac-lien-hoan-ca-mua-nhac-khong-chuyen-nam-2026-524024.html)
+### [Bế mạc Liên hoan Ca múa nhạc không chuyên năm 2026](https://congly.vn/be-mac-lien-hoan-ca-mua-nhac-khong-chuyen-nam-2026-524024.html)
+[Tối 31/5, tại quảng trường Nhà hát TP. Hải Phòng, Sở Văn hóa Thể thao và Du lịch tổ chức bế mạc Liên hoan Ca múa nhạc không chuyên năm 2026.](https://congly.vn/be-mac-lien-hoan-ca-mua-nhac-khong-chuyen-nam-2026-524024.html)
+  * [](https://congly.vn/nhung-trang-sach-di-ra-tu-chien-tranh-hanh-trinh-giu-lua-ky-uc-cua-nhung-vi-tuong-tran-mac-524010.html)
+### [Những trang sách đi ra từ chiến tranh: Hành trình giữ lửa ký ức của những vị tướng trận mạc](https://congly.vn/nhung-trang-sach-di-ra-tu-chien-tranh-hanh-trinh-giu-lua-ky-uc-cua-nhung-vi-tuong-tran-mac-524010.html)
+[Trong không khí cả nước hướng tới kỷ niệm 101 năm Ngày Báo chí Cách mạng Việt Nam (21/6/1925 – 21/6/2026) và 79 năm Ngày Thương binh - Liệt sĩ (27/7/1947 – 27/7/2026), chiều 31/5, tại khuôn viên Bảo tàng Lực lượng vũ trang Miền Đông Nam Bộ đã diễn ra chương trình giao lưu, giới thiệu tác phẩm đầy trang trọng và giàu ý nghĩa.](https://congly.vn/nhung-trang-sach-di-ra-tu-chien-tranh-hanh-trinh-giu-lua-ky-uc-cua-nhung-vi-tuong-tran-mac-524010.html)
+  * [](https://congly.vn/soi-noi-chuoi-hoat-dong-giao-luu-van-hoa-the-thao-ha-lan-hai-phong-523934.html)
+### [Sôi nổi chuỗi hoạt động giao lưu văn hóa, thể thao Hà Lan - Hải Phòng](https://congly.vn/soi-noi-chuoi-hoat-dong-giao-luu-van-hoa-the-thao-ha-lan-hai-phong-523934.html)
+[Ngày 30/5, UBND TP. Hải Phòng và Đại sứ quán Vương quốc Hà Lan tại Việt Nam tổ chức chương trình đạp xe hữu nghị Hà Lan - Hải Phòng. Đây là một trong chuỗi hoạt động giao lưu văn hóa, thể thao trong khuôn khổ chuyến thăm hữu nghị thành phố Cảng của tàu Hải quân Hoàng gia Hà Lan HNLMS De Ruyter.](https://congly.vn/soi-noi-chuoi-hoat-dong-giao-luu-van-hoa-the-thao-ha-lan-hai-phong-523934.html)
+  * [](https://congly.vn/nang-tam-trai-nghiem-cho-khach-di-tau-dip-cao-diem-he-523924.html)
+### [Nâng tầm trải nghiệm cho khách đi tàu dịp cao điểm hè](https://congly.vn/nang-tam-trai-nghiem-cho-khach-di-tau-dip-cao-diem-he-523924.html)
+[Dịp cao điểm hè luôn là thử thách lớn đối với ngành giao thông vận tải nói chung và ngành đường sắt nói riêng khi nhu cầu đi lại của người dân tăng cao đột biến.](https://congly.vn/nang-tam-trai-nghiem-cho-khach-di-tau-dip-cao-diem-he-523924.html)
+  * [](https://congly.vn/nhieu-hoat-dong-y-nghia-ky-niem-300-nam-ngay-sinh-danh-nhan-van-hoa-le-quy-don-523904.html)
+### [Nhiều hoạt động ý nghĩa kỷ niệm 300 năm Ngày sinh Danh nhân văn hóa Lê Quý Đôn](https://congly.vn/nhieu-hoat-dong-y-nghia-ky-niem-300-nam-ngay-sinh-danh-nhan-van-hoa-le-quy-don-523904.html)
+[Hoạt động kỷ niệm 300 năm Ngày sinh Danh nhân văn hoá Lê Quý Đôn sẽ diễn ra từ tháng 6-10/2026, tại xã Lê Quý Đôn (tỉnh Hưng Yên) với nhiều nội dung quy mô cấp quốc gia và quốc tế, cùng sự tham dự của hơn 1.200 đại biểu Trung ương, quốc tế và các địa phương.](https://congly.vn/nhieu-hoat-dong-y-nghia-ky-niem-300-nam-ngay-sinh-danh-nhan-van-hoa-le-quy-don-523904.html)
+  * [](https://congly.vn/soi-noi-mon-bong-da-nam-hoi-thao-cum-thi-dua-so-vii-toa-an-nhan-dan-523895.html)
+### [Sôi nổi môn bóng đá nam Hội thao Cụm Thi đua số VII Tòa án nhân dân](https://congly.vn/soi-noi-mon-bong-da-nam-hoi-thao-cum-thi-dua-so-vii-toa-an-nhan-dan-523895.html)
+[Chiều tối 29/5, tại sân bóng đá An Dương (phường Hồng Hà, Hà Nội), đã diễn ra hai trận đấu hấp dẫn của môn bóng đá nam trong khuôn khổ Hội thao Cụm Thi đua số VII Tòa án nhân dân, thu hút sự cổ vũ nhiệt tình của đông đảo cán bộ, công chức, người lao động các đơn vị.](https://congly.vn/soi-noi-mon-bong-da-nam-hoi-thao-cum-thi-dua-so-vii-toa-an-nhan-dan-523895.html)
+
+
+Nổi bật
+  * [](https://congly.vn/pho-chu-tich-nuoc-du-le-phat-dong-phong-trao-thi-dua-lao-dong-gioi-524940.html)
+### [Phó Chủ tịch nước dự Lễ phát động phong trào thi đua Lao động giỏi](https://congly.vn/pho-chu-tich-nuoc-du-le-phat-dong-phong-trao-thi-dua-lao-dong-gioi-524940.html)
+[Phó Chủ tịch nước cho rằng, trong giai đoạn mới, giai cấp công nhân tiếp tục giữ vai trò nòng cốt trong phát triển lực lượng sản xuất hiện đại, trực tiếp tạo ra của cải vật chất.](https://congly.vn/pho-chu-tich-nuoc-du-le-phat-dong-phong-trao-thi-dua-lao-dong-gioi-524940.html)
+  * [](https://congly.vn/con-dong-tren-toc-me-va-hat-lua-cua-doi-nguoi-524924.html)
+### [Cơn dông trên tóc mẹ và hạt lúa của đời người](https://congly.vn/con-dong-tren-toc-me-va-hat-lua-cua-doi-nguoi-524924.html)
+[Với người dân Hà Tĩnh, "chạy mưa" không chỉ là một công việc đồng áng hối hả mà còn là một miền hoài niệm tất bật, gian truân nhưng sâu nặng. Đó là nơi thân phận con người và hạt lúa nương tựa vào nhau để đi qua những cơn dông bất chợt của cuộc đời.](https://congly.vn/con-dong-tren-toc-me-va-hat-lua-cua-doi-nguoi-524924.html)
+  * [](https://congly.vn/suc-tre-lan-toa-hanh-dong-vi-moi-truong-524916.html)
+### [Sức trẻ lan tỏa hành động vì môi trường](https://congly.vn/suc-tre-lan-toa-hanh-dong-vi-moi-truong-524916.html)
+[Hưởng ứng Ngày Môi trường thế giới năm 2026 và Chiến dịch Thanh niên tình nguyện hè, tuổi trẻ Nghệ An đã triển khai hàng loạt hoạt động ý nghĩa như làm sạch biển, thu gom rác thải, phát quang đường làng, nạo vét kênh mương và xây dựng các công trình phục vụ cộng đồng, góp phần xây dựng môi trường sống xanh, sạch, đẹp.](https://congly.vn/suc-tre-lan-toa-hanh-dong-vi-moi-truong-524916.html)
+  * [](https://congly.vn/thuc-day-hop-tac-song-phuong-hien-thuc-hoa-tam-nhin-cong-dong-asean-2045-524895.html)
+### [Thúc đẩy hợp tác song phương, hiện thực hóa Tầm nhìn Cộng đồng ASEAN 2045](https://congly.vn/thuc-day-hop-tac-song-phuong-hien-thuc-hoa-tam-nhin-cong-dong-asean-2045-524895.html)
+[Theo Bộ Ngoại giao, sự hiện diện của lãnh đạo cấp cao các nước Lào, Campuchia, Thái Lan, Timor-Leste thể hiện rõ tinh thần gắn kết khu vực và vai trò chủ động, có trách nhiệm của Việt Nam.](https://congly.vn/thuc-day-hop-tac-song-phuong-hien-thuc-hoa-tam-nhin-cong-dong-asean-2045-524895.html)
+  * [](https://congly.vn/bo-chinh-tri-danh-gia-cao-dak-lak-thuc-hien-chu-truong-cua-trung-uong-524879.html)
+### [Bộ Chính trị đánh giá cao Đắk Lắk thực hiện chủ trương của Trung ương](https://congly.vn/bo-chinh-tri-danh-gia-cao-dak-lak-thuc-hien-chu-truong-cua-trung-uong-524879.html)
+[Đoàn kiểm tra số 26 của Bộ Chính trị, Ban Bí thư đánh giá cao kết quả sắp xếp bộ máy, phát triển kinh tế, chuyển đổi số... của Đắk Lắk.](https://congly.vn/bo-chinh-tri-danh-gia-cao-dak-lak-thuc-hien-chu-truong-cua-trung-uong-524879.html)
+
+
+Đừng bỏ lỡ
+  * [](https://congly.vn/thoi-tiet-ngay-7-6-mien-bac-don-nang-nong-gay-gat-tro-lai-mien-trung-cham-nguong-39-do-c-524922.html)
+### [Thời tiết ngày 7/6: Miền Bắc đón nắng nóng gay gắt trở lại, miền Trung chạm ngưỡng 39 độ C](https://congly.vn/thoi-tiet-ngay-7-6-mien-bac-don-nang-nong-gay-gat-tro-lai-mien-trung-cham-nguong-39-do-c-524922.html)
+[Thời tiết ngày 7/6 ở miền Bắc chính thức bước vào đợt nắng nóng diện rộng mới, miền Trung tiếp tục khô nóng đỉnh điểm, trong khi phía Nam bắt đầu giảm mưa.](https://congly.vn/thoi-tiet-ngay-7-6-mien-bac-don-nang-nong-gay-gat-tro-lai-mien-trung-cham-nguong-39-do-c-524922.html)
+  * [](https://congly.vn/ha-noi-de-xuat-dau-tu-gan-9-000-ty-dong-xay-dung-cau-giang-bien-524898.html)
+### [Hà Nội đề xuất đầu tư gần 9.000 tỷ đồng xây dựng cầu Giang Biên](https://congly.vn/ha-noi-de-xuat-dau-tu-gan-9-000-ty-dong-xay-dung-cau-giang-bien-524898.html)
+[Hà Nội đang xem xét đề xuất đầu tư dự án xây dựng cầu Giang Biên vượt sông Đuống và đường dẫn hai đầu cầu với tổng mức đầu tư khoảng 8.943 tỷ đồng.](https://congly.vn/ha-noi-de-xuat-dau-tu-gan-9-000-ty-dong-xay-dung-cau-giang-bien-524898.html)
+  * [](https://congly.vn/phat-trien-he-sinh-thai-kinh-te-bac-khoi-day-nguon-luc-nguoi-cao-tuoi-524878.html)
+### [Phát triển hệ sinh thái "kinh tế bạc", khơi dậy nguồn lực người cao tuổi](https://congly.vn/phat-trien-he-sinh-thai-kinh-te-bac-khoi-day-nguon-luc-nguoi-cao-tuoi-524878.html)
+[Phó Thủ tướng Phạm Thị Thanh Trà đề nghị các bộ, ngành, địa phương đẩy mạnh nghiên cứu, phát triển hệ sinh thái kinh tế bạc ở Việt Nam, đồng thời tạo điều kiện để người cao tuổi tiếp tục lao động, sản xuất, kinh doanh, truyền nghề, tư vấn và cống hiến.](https://congly.vn/phat-trien-he-sinh-thai-kinh-te-bac-khoi-day-nguon-luc-nguoi-cao-tuoi-524878.html)
+  * [](https://congly.vn/phong-nha-ke-bang-duoc-cong-nhan-khu-du-tru-sinh-quyen-the-gioi-524864.html)
+### [Phong Nha-Kẻ Bàng được công nhận Khu Dự trữ sinh quyển thế giới](https://congly.vn/phong-nha-ke-bang-duoc-cong-nhan-khu-du-tru-sinh-quyen-the-gioi-524864.html)
+[Ngày 6/6, Giám đốc Vườn quốc gia Phong Nha-Kẻ Bàng Phạm Hồng Thái thông tin, UNESCO vừa chính thức công nhận Vườn quốc gia Phong Nha-Kẻ Bàng là Khu Dự trữ sinh quyển thế giới, trở thành thành viên của Mạng lưới các Khu Dự trữ sinh quyển thế giới.](https://congly.vn/phong-nha-ke-bang-duoc-cong-nhan-khu-du-tru-sinh-quyen-the-gioi-524864.html)
+  * [](https://congly.vn/ca-nuoc-tieu-thu-hon-141-trieu-lit-xang-e10-chi-sau-4-ngay-524850.html)
+### [Cả nước tiêu thụ hơn 141 triệu lít xăng E10 chỉ sau 4 ngày](https://congly.vn/ca-nuoc-tieu-thu-hon-141-trieu-lit-xang-e10-chi-sau-4-ngay-524850.html)
+[Theo đại diện Bộ Công Thương, sau 4 ngày triển khai bắt buộc trên toàn quốc từ 1/6, cả nước tiêu thụ 151 triệu lít xăng. Trong đó 141,5 triệu lít xăng E10 và 9,5 triệu lít xăng E5.](https://congly.vn/ca-nuoc-tieu-thu-hon-141-trieu-lit-xang-e10-chi-sau-4-ngay-524850.html)
+  * [](https://congly.vn/siet-chat-thong-tin-sai-lech-ve-thuoc-la-tren-mang-xa-hoi-524949.html)
+### [Siết chặt thông tin sai lệch về thuốc lá trên mạng xã hội](https://congly.vn/siet-chat-thong-tin-sai-lech-ve-thuoc-la-tren-mang-xa-hoi-524949.html)
+[Các nội dung liên quan đến thuốc lá đang xuất hiện ngày càng đa dạng trên mạng xã hội, bao gồm cả thông tin truyền thông chính thống lẫn nội dung thiếu kiểm chứng, quảng bá sai lệch. Điều này đặt ra yêu cầu tăng cường kiểm soát, hoàn thiện hành lang pháp lý và nâng cao trách nhiệm của các chủ thể trên không gian số.](https://congly.vn/siet-chat-thong-tin-sai-lech-ve-thuoc-la-tren-mang-xa-hoi-524949.html)
+  * [](https://congly.vn/tay-ninh-30-ngay-dem-truy-quet-ma-tuy-524947.html)
+### [Tây Ninh: 30 ngày đêm truy quét ma túy](https://congly.vn/tay-ninh-30-ngay-dem-truy-quet-ma-tuy-524947.html)
+[Hướng đến “Tỉnh Tây Ninh không ma túy” vào năm 2030, địa phương triển khai cao điểm 30 ngày đêm tổng rà soát, đấu tranh, xử lý tội phạm và tệ nạn ma túy, đồng thời siết chặt trách nhiệm người đứng đầu.](https://congly.vn/tay-ninh-30-ngay-dem-truy-quet-ma-tuy-524947.html)
+  * [](https://congly.vn/mo-chien-dich-truy-quet-hang-gia-hang-nhai-vi-pham-so-huu-tri-tue-524935.html)
+### [Mở chiến dịch truy quét hàng giả, hàng nhái, vi phạm sở hữu trí tuệ](https://congly.vn/mo-chien-dich-truy-quet-hang-gia-hang-nhai-vi-pham-so-huu-tri-tue-524935.html)
+[Lực lượng Quản lý thị trường phối hợp với Công an tỉnh Thanh Hoá, các đơn vị có liên quan mở chiến dịch truy quét hàng giả, hàng nhái, vi phạm sở hữu trí tuệ phát hiện hàng nghìn sản phẩm mang thương hiệu nổi tiếng bị phát hiện, nhiều vụ án bị khởi tố.](https://congly.vn/mo-chien-dich-truy-quet-hang-gia-hang-nhai-vi-pham-so-huu-tri-tue-524935.html)
+  * [](https://congly.vn/khi-nhung-day-nha-lui-lai-de-nhuong-cho-cho-con-duong-moi-tren-tuyen-vanh-dai-2-5-524932.html)
+### [Khi những dãy nhà lùi lại để nhường chỗ cho con đường mới trên tuyến Vành đai 2,5](https://congly.vn/khi-nhung-day-nha-lui-lai-de-nhuong-cho-cho-con-duong-moi-tren-tuyen-vanh-dai-2-5-524932.html)
+[Những hình ảnh mới nhất tại Nguyễn Tuân và Ngụy Như Kon Tum ghi lại quá trình thi công, mở rộng đường và sự thay đổi của không gian đô thị.](https://congly.vn/khi-nhung-day-nha-lui-lai-de-nhuong-cho-cho-con-duong-moi-tren-tuyen-vanh-dai-2-5-524932.html)
+  * [](https://congly.vn/canh-bao-nguy-co-ke-xam-hai-tre-em-co-the-la-nguoi-quen-cua-gia-dinh-524930.html)
+### [Cảnh báo nguy cơ kẻ xâm hại trẻ em có thể là người quen của gia đình](https://congly.vn/canh-bao-nguy-co-ke-xam-hai-tre-em-co-the-la-nguoi-quen-cua-gia-dinh-524930.html)
+[Điều khiến nhiều bậc phụ huynh lo lắng không chỉ là nguy cơ trẻ bị xâm hại tình dục từ người lạ, mà thực tế cho thấy, trong nhiều vụ việc, đối tượng gây án lại chính là người quen biết, hàng xóm hoặc những người thường xuyên tiếp xúc với trẻ.](https://congly.vn/canh-bao-nguy-co-ke-xam-hai-tre-em-co-the-la-nguoi-quen-cua-gia-dinh-524930.html)
+  * [![Mãn nhãn đại tiệc ánh sáng đêm thứ hai DIFF 2026](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/v2\(1\).jpg)](https://congly.vn/man-nhan-dai-tiec-anh-sang-dem-thu-hai-diff-2026-524929.html)
+### [Mãn nhãn đại tiệc ánh sáng đêm thứ hai DIFF 2026](https://congly.vn/man-nhan-dai-tiec-anh-sang-dem-thu-hai-diff-2026-524929.html)
+[Tối 6/6, đêm thi “Di sản” của DIFF 2026 đã biến bầu trời sông Hàn thành sân khấu của ánh sáng và sắc màu. Hòa quyện cùng âm nhạc, những màn trình diễn đặc sắc không chỉ mãn nhãn mà còn kể câu chuyện về các giá trị di sản, để lại nhiều cảm xúc trong lòng người xem.](https://congly.vn/man-nhan-dai-tiec-anh-sang-dem-thu-hai-diff-2026-524929.html)
+  * [![Cơn dông trên tóc mẹ và hạt lúa của đời người](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/phoi_thoc_2\(1\).jpg)](https://congly.vn/con-dong-tren-toc-me-va-hat-lua-cua-doi-nguoi-524924.html)
+### [Cơn dông trên tóc mẹ và hạt lúa của đời người](https://congly.vn/con-dong-tren-toc-me-va-hat-lua-cua-doi-nguoi-524924.html)
+[Với người dân Hà Tĩnh, "chạy mưa" không chỉ là một công việc đồng áng hối hả mà còn là một miền hoài niệm tất bật, gian truân nhưng sâu nặng. Đó là nơi thân phận con người và hạt lúa nương tựa vào nhau để đi qua những cơn dông bất chợt của cuộc đời.](https://congly.vn/con-dong-tren-toc-me-va-hat-lua-cua-doi-nguoi-524924.html)
+  * [![Harry Kane ghi bàn, tuyển Anh thắng trước thềm World Cup 2026](https://cly.1cdn.vn/thumbs/540x360/2026/06/07/harry-kane-scored-for-england.jpg)](https://congly.vn/harry-kane-ghi-ban-tuyen-anh-thang-truoc-them-world-cup-2026-524923.html)
+### [Harry Kane ghi bàn, tuyển Anh thắng trước thềm World Cup 2026](https://congly.vn/harry-kane-ghi-ban-tuyen-anh-thang-truoc-them-world-cup-2026-524923.html)
+[Harry Kane ghi bàn duy nhất giúp tuyển Anh thắng New Zealand, trong khi tuyển Đức vượt qua Mỹ ở loạt trận giao hữu chuẩn bị cho World Cup 2026.](https://congly.vn/harry-kane-ghi-ban-tuyen-anh-thang-truoc-them-world-cup-2026-524923.html)
+  * [![Thời tiết ngày 7/6: Miền Bắc đón nắng nóng gay gắt trở lại, miền Trung chạm ngưỡng 39 độ C](https://cly.1cdn.vn/thumbs/540x360/2026/04/09/du-bao-thoi-tiet-ngay-5-4-nang-nong-dien-rong-canh-bao-uv.jpg)](https://congly.vn/thoi-tiet-ngay-7-6-mien-bac-don-nang-nong-gay-gat-tro-lai-mien-trung-cham-nguong-39-do-c-524922.html)
+### [Thời tiết ngày 7/6: Miền Bắc đón nắng nóng gay gắt trở lại, miền Trung chạm ngưỡng 39 độ C](https://congly.vn/thoi-tiet-ngay-7-6-mien-bac-don-nang-nong-gay-gat-tro-lai-mien-trung-cham-nguong-39-do-c-524922.html)
+[Thời tiết ngày 7/6 ở miền Bắc chính thức bước vào đợt nắng nóng diện rộng mới, miền Trung tiếp tục khô nóng đỉnh điểm, trong khi phía Nam bắt đầu giảm mưa.](https://congly.vn/thoi-tiet-ngay-7-6-mien-bac-don-nang-nong-gay-gat-tro-lai-mien-trung-cham-nguong-39-do-c-524922.html)
+  * [![Nhóm thiếu niên dùng hung khí chém người nếu thấy “bướng”](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/cuopxemay.jpg)](https://congly.vn/nhom-thieu-nien-dung-hung-khi-chem-nguoi-neu-thay-buong-524921.html)
+### [Nhóm thiếu niên dùng hung khí chém người nếu thấy “bướng”](https://congly.vn/nhom-thieu-nien-dung-hung-khi-chem-nguoi-neu-thay-buong-524921.html)
+[Ngày 6/6, Công an xã An Khánh, TP. Hà Nội cho biết đã nhanh chóng bắt giữ nhóm thiếu niên mang theo hung khí đi lang thang trong đêm, sẵn sàng tấn công người đi đường nếu thấy “bướng”, sau đó cướp xe máy để bán lấy tiền tiêu xài.](https://congly.vn/nhom-thieu-nien-dung-hung-khi-chem-nguoi-neu-thay-buong-524921.html)
+  * [![Nhóm thanh niên chặn đường, rút hung khí tấn công người dân](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/gayroi.jpg)](https://congly.vn/nhom-thanh-nien-chan-duong-rut-hung-khi-tan-cong-nguoi-dan-524920.html)
+### [Nhóm thanh niên chặn đường, rút hung khí tấn công người dân](https://congly.vn/nhom-thanh-nien-chan-duong-rut-hung-khi-tan-cong-nguoi-dan-524920.html)
+[Ngày 6/6, Công an TP. Hà Nội cho biết, Công an phường Phú Diễn, TP. Hà Nội đã phối hợp với các đơn vị nghiệp vụ bắt giữ 7 thanh niên gây rối trật tự công cộng trên địa bàn.](https://congly.vn/nhom-thanh-nien-chan-duong-rut-hung-khi-tan-cong-nguoi-dan-524920.html)
+  * [![Biết là xe trộm cắp vẫn mua, thợ sửa xe bị tạm giam](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/6-6-trom.jpg)](https://congly.vn/biet-la-xe-trom-cap-van-mua-tho-sua-xe-bi-tam-giam-524919.html)
+### [Biết là xe trộm cắp vẫn mua, thợ sửa xe bị tạm giam](https://congly.vn/biet-la-xe-trom-cap-van-mua-tho-sua-xe-bi-tam-giam-524919.html)
+[Sau khi biết 2 chiếc xe máy là tài sản do trộm cắp mà có, Vương Tuấn Trường vẫn mua và đã nhận cái kết xứng đáng.](https://congly.vn/biet-la-xe-trom-cap-van-mua-tho-sua-xe-bi-tam-giam-524919.html)
+  * [![Từ 1/7/2026, xe trục đơn lưu thông trên đường bộ không được vượt quá 10 tấn](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/xe-truc-don-luu-thong-tren-duong-bo-khong-duoc-vuot-qua-10-tan.png)](https://congly.vn/tu-1-7-2026-xe-truc-don-luu-thong-tren-duong-bo-khong-duoc-vuot-qua-10-tan-524918.html)
+### [Từ 1/7/2026, xe trục đơn lưu thông trên đường bộ không được vượt quá 10 tấn](https://congly.vn/tu-1-7-2026-xe-truc-don-luu-thong-tren-duong-bo-khong-duoc-vuot-qua-10-tan-524918.html)
+[Ngoài việc siết tải trọng xe trục đơn ở mức tối đa 10 tấn từ ngày 1/7/2026, quy định mới còn đặt nền tảng cho việc cấp giấy phép lưu hành điện tử gắn mã QR Code từ năm 2027, hướng tới hiện đại hóa công tác quản lý vận tải đường bộ.](https://congly.vn/tu-1-7-2026-xe-truc-don-luu-thong-tren-duong-bo-khong-duoc-vuot-qua-10-tan-524918.html)
+  * [![Khẩn trương khắc phục 16 điểm sạt lở trên Quốc lộ 3, dự kiến hoàn thành trong tháng 6](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/khan-truong-khac-phuc-16-diem-sat-lo-tren-quoc-lo-3-du-kien-hoan-thanh-trong-thang-6.png)](https://congly.vn/khan-truong-khac-phuc-16-diem-sat-lo-tren-quoc-lo-3-du-kien-hoan-thanh-trong-thang-6-524917.html)
+### [Khẩn trương khắc phục 16 điểm sạt lở trên Quốc lộ 3, dự kiến hoàn thành trong tháng 6](https://congly.vn/khan-truong-khac-phuc-16-diem-sat-lo-tren-quoc-lo-3-du-kien-hoan-thanh-trong-thang-6-524917.html)
+[Việc khẩn trương xử lý các điểm sạt lở trên Quốc lộ 3 được triển khai nhằm bảo đảm giao thông thông suốt trước mùa mưa lũ năm nay. Hiện 15/16 vị trí hư hỏng đã được khắc phục, nhiều điểm còn được gia cố để nâng cao khả năng chống sạt lở.](https://congly.vn/khan-truong-khac-phuc-16-diem-sat-lo-tren-quoc-lo-3-du-kien-hoan-thanh-trong-thang-6-524917.html)
+  * [![Sức trẻ lan tỏa hành động vì môi trường](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/avttt\(1\).jpg)](https://congly.vn/suc-tre-lan-toa-hanh-dong-vi-moi-truong-524916.html)
+### [Sức trẻ lan tỏa hành động vì môi trường](https://congly.vn/suc-tre-lan-toa-hanh-dong-vi-moi-truong-524916.html)
+[Hưởng ứng Ngày Môi trường thế giới năm 2026 và Chiến dịch Thanh niên tình nguyện hè, tuổi trẻ Nghệ An đã triển khai hàng loạt hoạt động ý nghĩa như làm sạch biển, thu gom rác thải, phát quang đường làng, nạo vét kênh mương và xây dựng các công trình phục vụ cộng đồng, góp phần xây dựng môi trường sống xanh, sạch, đẹp.](https://congly.vn/suc-tre-lan-toa-hanh-dong-vi-moi-truong-524916.html)
+  * [![Cháy trụ sở, hơn 60 cán bộ, chiến sĩ tham gia dập lửa](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/img_20260606_203029\(1\).jpg)](https://congly.vn/chay-tru-so-hon-60-can-bo-chien-si-tham-gia-dap-lua-524913.html)
+### [Cháy trụ sở, hơn 60 cán bộ, chiến sĩ tham gia dập lửa](https://congly.vn/chay-tru-so-hon-60-can-bo-chien-si-tham-gia-dap-lua-524913.html)
+[Chiều 6/6, một vụ cháy xảy ra tại trụ sở cơ quan Đảng ủy, Mặt trận và các đoàn thể xã Thượng Đức (TP. Đà Nẵng). Nhờ sự phối hợp kịp thời của lực lượng quân sự địa phương và các đơn vị chức năng, đám cháy đã được khống chế, không gây thiệt hại về người.](https://congly.vn/chay-tru-so-hon-60-can-bo-chien-si-tham-gia-dap-lua-524913.html)
+  * [![Những giọt ](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/2aoboqbaig7ltanp2cxonm3xqaxbtynwrnbecvd219.remini-enhanced\(1\).jpg)](https://congly.vn/nhung-giot-nuoc-mat-hanh-phuc-khep-lai-mot-nam-hoc-dang-nho-tai-global-ecokids-524912.html)
+### [Những giọt "nước mắt" hạnh phúc khép lại một năm học đáng nhớ tại Global Ecokids](https://congly.vn/nhung-giot-nuoc-mat-hanh-phuc-khep-lai-mot-nam-hoc-dang-nho-tai-global-ecokids-524912.html)
+[Ngày 6/6, tại Nhà hát Bến Thành (TP.HCM), Hệ thống Mầm non Quốc tế Global Ecokids đã tổ chức Lễ Tổng kết và Tốt nghiệp năm học 2025 - 2026.](https://congly.vn/nhung-giot-nuoc-mat-hanh-phuc-khep-lai-mot-nam-hoc-dang-nho-tai-global-ecokids-524912.html)
+  * [![DOJILAND tiếp tục khẳng định dấu ấn tại giải thưởng quốc tế Hubexo Asia Awards](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/dojitt2\(1\).jpg)](https://congly.vn/dojiland-tiep-tuc-khang-dinh-dau-an-tai-giai-thuong-quoc-te-hubexo-asia-awards-524911.html)
+### [DOJILAND tiếp tục khẳng định dấu ấn tại giải thưởng quốc tế Hubexo Asia Awards](https://congly.vn/dojiland-tiep-tuc-khang-dinh-dau-an-tai-giai-thuong-quoc-te-hubexo-asia-awards-524911.html)
+[Ngày 5/6/2026, DOJILAND được vinh danh "Top 10 Chủ đầu tư hàng đầu Việt Nam" tại Hubexo Asia Awards lần thứ 21, tiếp tục khẳng định vị thế của một nhà phát triển bất động sản tiên phong và có tầm ảnh hưởng trên thị trường.](https://congly.vn/dojiland-tiep-tuc-khang-dinh-dau-an-tai-giai-thuong-quoc-te-hubexo-asia-awards-524911.html)
+  * [![Đề xuất cho xe bán tải dưới 3,5 tấn lưu thông như ô tô con](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/de-xuat-cho-xe-ban-tai-duoi-3-5-tan-luu-thong-nhu-o-to-con.png)](https://congly.vn/de-xuat-cho-xe-ban-tai-duoi-3-5-tan-luu-thong-nhu-o-to-con-524910.html)
+### [Đề xuất cho xe bán tải dưới 3,5 tấn lưu thông như ô tô con](https://congly.vn/de-xuat-cho-xe-ban-tai-duoi-3-5-tan-luu-thong-nhu-o-to-con-524910.html)
+[Cục Đăng kiểm Việt Nam đề xuất nghiên cứu cơ chế cho phép xe bán tải cabin kép và xe tải van có khối lượng toàn bộ không quá 3,5 tấn được tham gia giao thông như ô tô con nhằm phù hợp với thực tiễn sử dụng phương tiện, đồng thời tháo gỡ những bất cập trong công tác tổ chức giao thông hiện nay.](https://congly.vn/de-xuat-cho-xe-ban-tai-duoi-3-5-tan-luu-thong-nhu-o-to-con-524910.html)
+  * [![Nhận diện thách thức, củng cố trận địa tư tưởng trên không gian mạng](https://cly.1cdn.vn/thumbs/540x360/2026/06/06/bia-sach-1-.jpg)](https://congly.vn/nhan-dien-thach-thuc-cung-co-tran-dia-tu-tuong-tren-khong-gian-mang-524909.html)
+### [Nhận diện thách thức, củng cố trận địa tư tưởng trên không gian mạng](https://congly.vn/nhan-dien-thach-thuc-cung-co-tran-dia-tu-tuong-tren-khong-gian-mang-524909.html)
+[Trong bối cảnh không gian mạng trở thành mặt trận tư tưởng trọng yếu, nơi các thế lực thù địch không ngừng gia tăng hoạt động phát tán thông tin sai trái, xuyên tạc, chống phá Đảng, Nhà nước và chế độ, cuốn sách "Đấu tranh bảo vệ nền tảng tư tưởng, bảo vệ Đảng, Nhà nước, Nhân dân và chế độ trên môi trường mạng xã hội" là một công trình có ý nghĩa thiết thực và cấp bách.](https://congly.vn/nhan-dien-thach-thuc-cung-co-tran-dia-tu-tuong-tren-khong-gian-mang-524909.html)
+
+
+[Xem thêm](javascript:;)
+Đọc nhiều
+  * 1
+### [Những trang sách đi ra từ chiến tranh: Hành trình giữ lửa ký ức của những vị tướng trận mạc](https://congly.vn/nhung-trang-sach-di-ra-tu-chien-tranh-hanh-trinh-giu-lua-ky-uc-cua-nhung-vi-tuong-tran-mac-524010.html)
+  * 2
+### [Bế mạc Liên hoan Ca múa nhạc không chuyên năm 2026](https://congly.vn/be-mac-lien-hoan-ca-mua-nhac-khong-chuyen-nam-2026-524024.html)
+
+
+[![](https://adi.admicro.vn/adt/adn/2025/09/banner-hcZnyMsC6L.jpeg)](https://lg1.logging.admicro.vn/adn?dmn=https%3A%2F%2Fcongly.vn%2Fnhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html&rid=011a05kot7q6g02&sspb=24000&sspr=21100&lsn=1780895042619&ce=1&lc=4&cr=&ui=&uuid=&profileID=&bi=0&cmpg=100994&items=460763&zid=523696&pr=46134295135&cid=-1&tp=11&tpn=4&alg=1111&dg=f2319469f574482bef011288f60a5106&xtr=eyJhc2lkIjoxNDYwNiwicHJvZmlsZWlkIjoiIiwicHJmbmciOnsidGltZSI6MTc4MDg5NTA0NywiX3VwbCI6bnVsbH0sImJsdiI6IiwsLCw4LDE1MDAwLjAsMTUwMDAuMCwyNDAwMC4wLDI0MDAwLjAsMjExMDAsLCwsLDAsLCwxLjAsMSwwLjAwMTYsMSwxLDhhNTRjMGJjOywifQ%3D%3D&sspz=2028538&adc_cpa=1&cov=1&re=https%3A%2F%2Fnagakawa.com.vn%2Fdieu-hoa-am-tran-cassette-inverter-8-huong-thoi-nit-c24r2u35-24000btu-h-1-chieu%3Futm_source%3DAdx%26utm_medium%3Dcpc%26utm_content%3DDieuhoaamtran%26utm_campaign%3DQuy1_2026)
+[![logo](https://cly.1cdn.vn/congly/assets/images/logo-small.png)](https://congly.vn/)
+[Văn hóa- Thể thao](https://congly.vn/van-hoa-the-thao)
+Những nghệ sĩ bị ma túy tàn phá sự nghiệp khi đang ở đỉnh cao
+  * [](javascript:; "Chia sẻ Zalo")
+
+
+  * [Cỡ chữ](https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html)
+Mặc định
+  * [](https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html)
+  * [ ](https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html)
+
+
+[![logo](https://cly.1cdn.vn/congly/assets/images/logo.png)](https://congly.vn/)
+**CƠ QUAN NGÔN LUẬN CỦA TOÀ ÁN NHÂN DÂN TỐI CAO**
+Giấy phép số 226/GP-BTTTT do Bộ Thông tin và Truyền thông cấp
+Tổng Biên tập: **Trần Đức Vinh**
+Phó Tổng Biên tập: **Tô Thị Lan Phương**
+[![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=5ccfd7fa-aeb8-4e63-bc1b-b6d693962be8)](https://www.dmca.com/Protection/Status.aspx?ID=5ccfd7fa-aeb8-4e63-bc1b-b6d693962be8&refurl=https://congly.vn/ "DMCA.com Protection Status")
+Kết nối chúng tôi tại:
+  * [](https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html)
+  * [](https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html)
+  * [](https://congly.vn/nhung-nghe-si-bi-ma-tuy-tan-pha-su-nghiep-khi-dang-o-dinh-cao-208883.html)
+
+
+Trụ sở Tòa soạn: 262 Đội Cấn, phường Ngọc Hà, Hà Nội
+Điện thoại: 0243.7379.192
+Hotline: 0912.532.315-0961.101.678
+Email: conglydientu@congly.vn
+©Bản quyền thuộc về Báo Công lý
+Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản.

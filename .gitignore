@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Env (keys)
+.env
+
+# Data landing (raw files — too large for git)
+data/landing/
+
+# Temp / cache
+.pytest_cache/
+*.tmp
+pageindex_doc_ids.json
+pageindex_pdfs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

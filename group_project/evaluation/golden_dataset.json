@@ -1,17 +1,82 @@
 [
   {
-    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
-    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo pháp luật Việt Nam là gì?",
+    "expected_answer": "Người tàng trữ trái phép chất ma tuý bị phạt tù từ 1 đến 5 năm tùy khối lượng. Với số lượng lớn hoặc có tổ chức, mức phạt có thể lên đến 20 năm tù hoặc tù chung thân.",
+    "expected_context": "Luật Phòng chống ma tuý, tội tàng trữ trái phép chất ma tuý"
   },
   {
-    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+    "question": "Luật Phòng chống ma tuý quy định những hình thức cai nghiện nào?",
+    "expected_answer": "Gồm cai nghiện tự nguyện tại gia đình, tại cộng đồng, tại cơ sở cai nghiện và cai nghiện bắt buộc tại cơ sở cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý, các hình thức cai nghiện"
   },
   {
-    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "question": "Nghệ sĩ Long Nhật và Sơn Ngọc Minh bị bắt vì tội gì liên quan đến ma tuý?",
+    "expected_answer": "Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt vì liên quan đến sử dụng trái phép chất ma tuý.",
+    "expected_context": "Bài báo về ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt vì liên quan ma tuý"
+  },
+  {
+    "question": "Nhà thiết kế Công Trí bị xử lý như thế nào vì liên quan đến ma tuý?",
+    "expected_answer": "Nhà thiết kế Công Trí bị bắt và xử lý theo pháp luật về tội sử dụng hoặc tàng trữ trái phép chất ma tuý.",
+    "expected_context": "Bài báo về nhà thiết kế Công Trí liên quan đến ma tuý"
+  },
+  {
+    "question": "Quy trình xác định tình trạng nghiện ma tuý theo Nghị định 166/2026 gồm những bước nào?",
+    "expected_answer": "Quy trình gồm thu thập hồ sơ, xét nghiệm chất ma tuý trong cơ thể và đánh giá tình trạng lệ thuộc theo tiêu chí y tế của cơ quan có thẩm quyền.",
+    "expected_context": "Nghị định 166/2026/NĐ-CP về xác định tình trạng nghiện ma tuý"
+  },
+  {
+    "question": "Chương trình mục tiêu quốc gia phòng chống ma tuý đến năm 2030 có những mục tiêu chính nào?",
+    "expected_answer": "Chương trình nhằm giảm cung cầu ma tuý, tăng cường phòng ngừa, điều trị và phục hồi chức năng, đồng thời tăng cường hợp tác quốc tế trong phòng chống ma tuý.",
+    "expected_context": "Quyết định 2942/QĐ-BCA về Chương trình mục tiêu quốc gia phòng chống ma tuý đến 2030"
+  },
+  {
+    "question": "Hai nghệ sĩ tên Tín nổi tiếng dính vào ma tuý là ai?",
+    "expected_answer": "Theo bài báo, có hai nghệ sĩ nổi tiếng tên Tín hoạt động trong lĩnh vực giải trí Việt Nam bị dính vào ma tuý và đã bị xử lý theo pháp luật.",
+    "expected_context": "Bài báo về hai nghệ sĩ nổi tiếng tên Tín dính vào ma tuý"
+  },
+  {
+    "question": "Điều kiện để được cai nghiện tự nguyện tại gia đình là gì?",
+    "expected_answer": "Người nghiện cần có đơn đề nghị, có người giám hộ hoặc gia đình cam kết hỗ trợ và được cơ quan có thẩm quyền chấp thuận.",
+    "expected_context": "Luật Phòng chống ma tuý, điều kiện cai nghiện tự nguyện tại gia đình"
+  },
+  {
+    "question": "Những nghệ sĩ nào bị ma tuý tàn phá sự nghiệp khi đang ở đỉnh cao?",
+    "expected_answer": "Nhiều nghệ sĩ Việt Nam bị ma tuý tàn phá sự nghiệp khi đang ở đỉnh cao, bao gồm các ca sĩ và diễn viên được đề cập trong các bài báo.",
+    "expected_context": "Bài báo về những nghệ sĩ bị ma tuý tàn phá sự nghiệp khi đang ở đỉnh cao"
+  },
+  {
+    "question": "Cơ sở cai nghiện bắt buộc hoạt động như thế nào theo quy định hiện hành?",
+    "expected_answer": "Cơ sở cai nghiện bắt buộc hoạt động theo quy định của Nhà nước, tiếp nhận người nghiện theo quyết định của cơ quan có thẩm quyền, cung cấp dịch vụ điều trị và phục hồi chức năng.",
+    "expected_context": "Nghị định về quản lý cơ sở cai nghiện ma tuý"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma tuý lần đầu bị xử lý như thế nào?",
+    "expected_answer": "Người sử dụng trái phép chất ma tuý lần đầu có thể bị xử phạt hành chính và bắt buộc đi cai nghiện theo quy định của pháp luật Việt Nam.",
+    "expected_context": "Luật Phòng chống ma tuý, xử lý người sử dụng trái phép chất ma tuý"
+  },
+  {
+    "question": "Nhà nước có trách nhiệm gì trong việc hỗ trợ người sau cai nghiện ma tuý?",
+    "expected_answer": "Nhà nước có trách nhiệm hỗ trợ tái hòa nhập cộng đồng, dạy nghề, tạo việc làm và quản lý sau cai nghiện cho người đã hoàn thành chương trình cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý, chính sách hỗ trợ người sau cai nghiện"
+  },
+  {
+    "question": "Ca sĩ nào bị bắt với cao buộc tổ chức sử dụng ma tuý?",
+    "expected_answer": "Ca sĩ Miu Lê bị bắt với cáo buộc tổ chức sử dụng ma tuý theo các bài báo về nghệ sĩ Việt Nam liên quan đến ma tuý.",
+    "expected_context": "Bài báo về ca sĩ Miu Lê bị bắt với cáo buộc tổ chức sử dụng ma tuý"
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2025 số 120/2025/QH15 có những quy định chính nào?",
+    "expected_answer": "Luật Phòng chống ma tuý 2025 bổ sung các quy định về quản lý chất ma tuý tiền chất, điều trị nghiện và xử lý vi phạm nhằm phù hợp với tình hình thực tế và yêu cầu hội nhập quốc tế.",
+    "expected_context": "Luật Phòng chống ma tuý 2025 số 120/2025/QH15"
+  },
+  {
+    "question": "Người nghiện ma tuý có được miễn trách nhiệm hình sự nếu tự nguyện đi cai nghiện không?",
+    "expected_answer": "Pháp luật Việt Nam có quy định giảm nhẹ hoặc miễn trách nhiệm cho người tự nguyện đi cai nghiện, tùy trường hợp cụ thể và mức độ vi phạm.",
+    "expected_context": "Luật Phòng chống ma tuý, chính sách đối với người nghiện tự nguyện cai nghiện"
+  },
+  {
+    "question": "Quyết định số 152/QĐ-TTg quy định về nội dung gì liên quan đến ma tuý?",
+    "expected_answer": "Quyết định số 152/QĐ-TTg của Thủ tướng Chính phủ quy định về các chương trình, chính sách liên quan đến phòng chống ma tuý và hỗ trợ người nghiện tái hòa nhập cộng đồng.",
+    "expected_context": "Quyết định 152/QĐ-TTg của Thủ tướng Chính phủ"
   }
 ]

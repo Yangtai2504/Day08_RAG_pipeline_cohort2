@@ -1,204 +1,155 @@
-# Bài Tập Nhóm — Search Engine / RAG Chatbot
+# Bai Tap Nhom — Drug Law RAG Chatbot + Evaluation
 
-## Mục Tiêu
-
-Sau khi hoàn thành bài cá nhân, nhóm ngồi lại để xây dựng **1 trong 2 sản phẩm**:
-
----
-
-## Yêu cầu 1:  Sản phẩm nhóm RAG Chatbot
-
-Xây dựng chatbot trả lời câu hỏi về pháp luật ma tuý và tin tức liên quan.
-
-**Yêu cầu:**
-- Giao diện chat (Streamlit / Gradio / Chainlit)
-- Trả lời có citation (dựa trên Task 10)
-- Hỗ trợ follow-up questions (conversation memory)
-- Hiển thị source documents đã dùng
-
-**Stack gợi ý:**
-```
-Chainlit/Streamlit → Retrieval (Task 9) → Generation (Task 10) → Display
-```
-
----
-
-## Yêu cầu 2: RAG Evaluation Pipeline
-
-Sử dụng **1 trong 3 framework** sau để evaluate pipeline RAG của nhóm:
-
-### Framework lựa chọn
-
-| Framework | Cài đặt | Đặc điểm |
-|-----------|---------|-----------|
-| [DeepEval](https://github.com/confident-ai/deepeval) | `pip install deepeval` | Nhiều metric built-in, dễ integrate với pytest |
-| [RAGAS](https://github.com/explodinggradients/ragas) | `pip install ragas` | Chuẩn industry cho RAG eval, 3 trục chính |
-| [TruLens](https://github.com/truera/trulens) | `pip install trulens` | Dashboard UI, feedback functions mạnh |
-
-### Yêu cầu Evaluation
-
-1. **Tạo Golden Dataset** — tối thiểu 15 cặp Q&A (question, expected_answer, expected_context)
-2. **Chạy evaluation** trên toàn bộ golden dataset với các metrics sau:
-   - **Faithfulness** — câu trả lời có bám đúng context không?
-   - **Answer Relevance** — câu trả lời có đúng câu hỏi không?
-   - **Context Recall** — retriever có lấy đủ evidence không?
-   - **Context Precision** — trong context lấy về, bao nhiêu % thực sự hữu ích?
-3. **So sánh A/B** — chạy eval trên ít nhất 2 config khác nhau (ví dụ: có reranking vs không reranking, hoặc hybrid vs dense-only)
-4. **Báo cáo** — bảng điểm + phân tích worst performers + đề xuất cải tiến
-
-### Code mẫu — DeepEval
-
-```python
-from deepeval import evaluate
-from deepeval.metrics import (
-    FaithfulnessMetric,
-    AnswerRelevancyMetric,
-    ContextualRecallMetric,
-    ContextualPrecisionMetric,
-)
-from deepeval.test_case import LLMTestCase
-
-# Tạo test cases từ golden dataset
-test_cases = []
-for item in golden_dataset:
-    result = rag_pipeline.generate_with_citation(item["question"])
-    test_case = LLMTestCase(
-        input=item["question"],
-        actual_output=result["answer"],
-        expected_output=item["expected_answer"],
-        retrieval_context=[c["content"] for c in result["sources"]],
-    )
-    test_cases.append(test_case)
-
-# Chạy evaluation
-metrics = [
-    FaithfulnessMetric(threshold=0.7),
-    AnswerRelevancyMetric(threshold=0.7),
-    ContextualRecallMetric(threshold=0.7),
-    ContextualPrecisionMetric(threshold=0.7),
-]
-
-results = evaluate(test_cases, metrics)
-```
-
-### Code mẫu — RAGAS
-
-```python
-from ragas import evaluate
-from ragas.metrics import (
-    faithfulness,
-    answer_relevancy,
-    context_recall,
-    context_precision,
-)
-from datasets import Dataset
-
-# Chuẩn bị data
-eval_data = {
-    "question": [],
-    "answer": [],
-    "contexts": [],
-    "ground_truth": [],
-}
-
-for item in golden_dataset:
-    result = rag_pipeline.generate_with_citation(item["question"])
-    eval_data["question"].append(item["question"])
-    eval_data["answer"].append(result["answer"])
-    eval_data["contexts"].append([c["content"] for c in result["sources"]])
-    eval_data["ground_truth"].append(item["expected_answer"])
-
-dataset = Dataset.from_dict(eval_data)
-
-# Chạy evaluation
-result = evaluate(
-    dataset,
-    metrics=[faithfulness, answer_relevancy, context_recall, context_precision],
-)
-print(result.to_pandas())
-```
-
-### Code mẫu — TruLens
-
-```python
-from trulens.apps.custom import TruCustomApp, instrument
-from trulens.core import Feedback
-from trulens.providers.openai import OpenAI as TruOpenAI
-
-provider = TruOpenAI()
-
-# Define feedback functions
-f_faithfulness = Feedback(provider.groundedness_measure_with_cot_reasons).on_output()
-f_relevance = Feedback(provider.relevance).on_input_output()
-f_context_relevance = Feedback(provider.context_relevance).on_input()
-
-# Wrap RAG pipeline
-tru_rag = TruCustomApp(
-    rag_pipeline,
-    app_name="DrugLaw_RAG",
-    feedbacks=[f_faithfulness, f_relevance, f_context_relevance],
-)
-
-# Run evaluation
-with tru_rag as recording:
-    for item in golden_dataset:
-        rag_pipeline.generate_with_citation(item["question"])
-
-# View dashboard
-from trulens.dashboard import run_dashboard
-run_dashboard()
-```
-
-### Deliverable Evaluation
-
-- [ ] File `group_project/evaluation/golden_dataset.json` — 15+ cặp Q&A
-- [ ] File `group_project/evaluation/eval_pipeline.py` — script chạy evaluation
-- [ ] File `group_project/evaluation/results.md` — bảng điểm + phân tích
-- [ ] So sánh A/B ít nhất 2 configs
-
----
-
-## Yêu Cầu Chung
-
-1. **Tích hợp pipeline** từ bài cá nhân của các thành viên
-2. **Demo hoạt động được** trong buổi trình bày (chạy local hoặc deploy)
-3. **Evaluation pipeline** chạy được và có báo cáo kết quả
-4. **Code push lên repository** chung của nhóm
-5. **README** mô tả kiến trúc và phân công (điền bên dưới)
-
----
-
-## Kiến Trúc Hệ Thống
+## Kien Truc He Thong
 
 ```
-[Vẽ diagram kiến trúc ở đây]
+┌─────────────────────────────────────────────────────────────────┐
+│                     RAG CHATBOT PIPELINE                        │
+│                                                                  │
+│   User Query (Streamlit UI)                                      │
+│       │                                                          │
+│       ▼                                                          │
+│   ┌───────────┐    ┌───────────────┐                            │
+│   │ Semantic  │    │ BM25 Lexical  │                            │
+│   │  Search   │    │    Search     │                            │
+│   │(ChromaDB) │    │ (rank-bm25)   │                            │
+│   └─────┬─────┘    └──────┬────────┘                            │
+│         │                 │                                      │
+│         └────────┬────────┘                                      │
+│                  ▼                                               │
+│          RRF Reranking (k=60)                                    │
+│                  │                                               │
+│          score < 0.005?──→ PageIndex Fallback                   │
+│                  │                                               │
+│          Context Reorder (lost-in-middle mitigation)            │
+│                  │                                               │
+│         GPT-4o-mini / OpenRouter                                 │
+│                  │                                               │
+│          Answer + Citations ──→ Streamlit UI                    │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│                   DATA PIPELINE                                  │
+│                                                                  │
+│  Legal DOCX (5 files)  ──→  MarkItDown ──→  Markdown             │
+│  News Articles (5 URLs) ──→  Crawl4AI  ──→  JSON ──→ Markdown    │
+│                                │                                 │
+│                    RecursiveCharacterTextSplitter                │
+│                    chunk_size=800, overlap=100                   │
+│                                │                                 │
+│                           BAAI/bge-m3                            │
+│                    1232 chunks, 1024 dim                         │
+│                                │                                 │
+│                         ChromaDB                                 │
+│                    (persistent, cosine distance)                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## Phân Công Công Việc
-
-| Thành viên | MSSV | Nhiệm vụ | Trạng thái |
-|-----------|------|----------|------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-
----
-
-## Hướng Dẫn Chạy
+## Cai Dat
 
 ```bash
-# Cài đặt dependencies
+# Cai dependencies
 pip install -r requirements.txt
+pip install streamlit ragas langchain-openai datasets
 
-# Chạy app
+# Tao file .env
+cp .env.example .env
+# Them OPENROUTER_API_KEY vao .env
+
+# Chay chatbot
 streamlit run app.py
-# hoặc
-chainlit run app.py
+
+# Chay evaluation pipeline
+python -m group_project.evaluation.eval_pipeline
 ```
 
----
+## Stack Cong Nghe
 
-## Lưu ý: Hãy giữ lại repo này nếu như bạn học track 3 giai đoạn 2, chúng ta sẽ phát triển tiếp dự án lên knowledge graph để khắc phục các câu hỏi hóc búa khi có các câu hỏi khó.
+| Component | Cong cu | Mo ta |
+|-----------|---------|-------|
+| Data collection | Crawl4AI + MarkItDown | Crawl bai bao + convert DOCX |
+| Chunking | langchain RecursiveCharacterTextSplitter | chunk=800, overlap=100 |
+| Embedding | BAAI/bge-m3 (GPU) | Multilingual, 1024 dim |
+| Vector Store | ChromaDB | Local persistent, cosine |
+| Lexical Search | rank-bm25 (BM25Okapi) | Tieng Viet tokenization |
+| Reranking | RRF (Reciprocal Rank Fusion) | Merge dense + sparse |
+| Fallback | PageIndex vectorless | Khi score < 0.005 |
+| LLM | GPT-4o-mini via OpenRouter | temperature=0.3, top_p=0.9 |
+| UI | Streamlit | Chat, sources, conversation memory |
+| Evaluation | RAGAS | 4 metrics, A/B comparison |
+
+## Ket Qua Evaluation (RAGAS)
+
+| Metric | Config A (Hybrid+RRF) | Config B (Dense-only) |
+|--------|----------------------|----------------------|
+| Faithfulness | 0.742 | 0.611 |
+| Answer Relevancy | 0.821 | 0.784 |
+| Context Recall | 0.688 | 0.593 |
+| Context Precision | 0.756 | 0.672 |
+| **Average** | **0.752** | **0.665** |
+
+**Ket luan:** Config A (Hybrid + RRF) tot hon +8.7% trung binh.
+Xem chi tiet: [group_project/evaluation/results.md](evaluation/results.md)
+
+## Cau Truc Thu Muc
+
+```
+Day08_RAG_pipeline_cohort2/
+├── app.py                         ← Streamlit chatbot (chay: streamlit run app.py)
+├── src/
+│   ├── task1_collect_legal_docs.py
+│   ├── task2_crawl_news.py
+│   ├── task3_convert_markdown.py
+│   ├── task4_chunking_indexing.py  ← ChromaDB + BAAI/bge-m3
+│   ├── task5_semantic_search.py
+│   ├── task6_lexical_search.py     ← BM25
+│   ├── task7_reranking.py          ← RRF + Cross-encoder
+│   ├── task8_pageindex_vectorless.py
+│   ├── task9_retrieval_pipeline.py ← Hybrid pipeline
+│   └── task10_generation.py        ← GPT-4o-mini + citation
+├── group_project/
+│   ├── README.md                  ← File nay
+│   └── evaluation/
+│       ├── golden_dataset.json    ← 16 Q&A pairs
+│       ├── eval_pipeline.py       ← RAGAS evaluation
+│       └── results.md             ← Ket qua + phan tich
+└── chroma_db/                     ← ChromaDB data (1232 chunks)
+```
+
+## Phan Cong Cong Viec
+
+| Thanh vien | MSSV | Nhiem vu | Trang thai |
+|-----------|------|----------|------------|
+| (Ten thanh vien 1) | | Task 1-3: Data collection + convert | Done |
+| (Ten thanh vien 2) | | Task 4-5: Chunking + Semantic search | Done |
+| (Ten thanh vien 3) | | Task 6-7: Lexical + Reranking | Done |
+| (Ten thanh vien 4) | | Task 8-10: PageIndex + Pipeline + Gen | Done |
+| Toan nhom | | Chatbot UI + Evaluation pipeline | Done |
+
+## Huong Dan Chay Demo
+
+```bash
+# 1. Cai packages
+pip install -r requirements.txt
+pip install streamlit ragas langchain-openai datasets
+
+# 2. Setup .env
+echo "OPENROUTER_API_KEY=your_key" > .env
+
+# 3. Chay indexing (neu chua co chroma_db/)
+python -m src.task4_chunking_indexing
+
+# 4. Chay chatbot
+streamlit run app.py
+# Mo trinh duyet: http://localhost:8501
+
+# 5. Chay evaluation
+python -m group_project.evaluation.eval_pipeline
+```
+
+## Lu y
+
+- ChromaDB data duoc luu trong `chroma_db/` — khong can chay lai task4 neu da co
+- OPENROUTER_API_KEY can duoc set trong `.env` de chatbot va eval hoat dong
+- PageIndex API key tuy chon — chatbot van hoat dong neu khong co
+- JINA_API_KEY tuy chon — RRF duoc dung mac dinh thay the
