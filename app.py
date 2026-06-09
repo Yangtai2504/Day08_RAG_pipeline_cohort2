@@ -57,8 +57,8 @@ with st.sidebar:
     top_k = st.slider("So chunks retrieval", 3, 10, 5)
 
     st.divider()
-    st.caption("**Kien truc:**")
-    st.caption("Query → Semantic + BM25 → RRF → Rerank → GPT-4o-mini")
+    st.caption("**Kien truc (Supervisor + Workers):**")
+    st.caption("Supervisor → [Semantic ‖ BM25 ‖ TF-IDF] parallel → RRF → Rerank → GPT-4o-mini")
 
 # =============================================================================
 # SESSION STATE
@@ -98,15 +98,45 @@ for msg in st.session_state.messages:
 @st.cache_resource(show_spinner=False)
 def load_pipeline():
     """Load RAG pipeline mot lan (cache)."""
-    from src.task9_retrieval_pipeline import retrieve
+    from src.supervisor import retrieve_with_supervisor
     from src.task10_generation import generate_with_citation
-    return retrieve, generate_with_citation
+    return retrieve_with_supervisor, generate_with_citation
 
 
 def process_query(query: str, top_k: int = 5) -> dict:
-    """Chay RAG pipeline va tra ve ket qua."""
-    _, generate = load_pipeline()
-    return generate(query, top_k=top_k)
+    """Chay RAG pipeline qua Supervisor + Workers."""
+    retrieve_fn, generate = load_pipeline()
+    from src.task10_generation import reorder_for_llm, format_context, SYSTEM_PROMPT, LLM_MODEL, TEMPERATURE, TOP_P
+    import os
+    from openai import OpenAI
+
+    chunks = retrieve_fn(query, top_k=top_k, use_hyde=False)
+    if not chunks:
+        return {"answer": "Toi khong the xac minh thong tin nay tu nguon hien co.", "sources": [], "retrieval_source": "supervisor"}
+
+    reordered = reorder_for_llm(chunks)
+    context = format_context(reordered)
+    user_message = f"Context:\n{context}\n\n---\n\nCau hoi: {query}"
+
+    api_key = os.getenv("OPENROUTER_API_KEY") or os.getenv("OPENAI_API_KEY", "")
+    answer = "Toi khong the xac minh thong tin nay tu nguon hien co."
+    if api_key:
+        try:
+            client = OpenAI(api_key=api_key, base_url="https://openrouter.ai/api/v1")
+            response = client.chat.completions.create(
+                model=LLM_MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": user_message},
+                ],
+                temperature=TEMPERATURE,
+                top_p=TOP_P,
+            )
+            answer = response.choices[0].message.content
+        except Exception as e:
+            answer = f"Loi LLM: {e}"
+
+    return {"answer": answer, "sources": reordered, "retrieval_source": "supervisor"}
 
 
 def build_conversation_context() -> str:
